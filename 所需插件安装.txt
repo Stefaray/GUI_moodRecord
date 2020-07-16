@@ -1,0 +1,5 @@
+安装以下三个插件
+
+pip install pillow
+pip install matplotlib
+pip install aliyun-python-sdk-core
